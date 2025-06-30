@@ -1,1 +1,21 @@
+## Limitação Técnica na Execução do Laboratório
 
+## Contexto
+Durante a execução do desafio proposto pela DIO, que envolvia a utilização prática do Azure OpenAI Studio para testar e documentar recursos de IA generativa e filtros de conteúdo, foi identificado um impedimento técnico relacionado ao acesso à plataforma.
+
+Motivo
+A conta utilizada no Azure está vinculada a um endereço de e-mail trial (gratuito para testes), o que impede a criação e uso do serviço Azure OpenAI. Esse serviço requer aprovação prévia e está disponível apenas para contas corporativas ou educacionais com crédito validado e permissão para uso de recursos da OpenAI.
+
+Impacto
+Essa limitação inviabilizou:
+
+O acesso ao Azure OpenAI Studio
+
+A execução prática de prompts
+
+A coleta de evidências até a etapa final (prints) para documentação
+
+A interação com os filtros de conteúdo aplicados ao modelo
+
+Próximos Passos (Sugeridos)
+Solicitar acesso com um e-mail institucional (ex: empresa ou universidade)
