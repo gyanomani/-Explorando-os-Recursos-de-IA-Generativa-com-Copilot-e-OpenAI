@@ -10,7 +10,7 @@ Este repositório reúne exemplos práticos, prompts, e anotações sobre o uso 
 -Compartilhar exemplos que ilustram o funcionamento do Copilot e OpenAI no Azure.
 
 ## Ferramentas Utilizadas
--Microsoft Copilot
+- Microsoft Copilot
 
 - Azure OpenAI Service
 
